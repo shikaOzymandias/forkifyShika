@@ -113,5 +113,6 @@ const init = function(){
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
-
-console.log('welcome');
+console.log('shit');
+console.log('neWshit');
+console.log('old0shit');
